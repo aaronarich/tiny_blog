@@ -1,0 +1,1 @@
+#This is a tiny Rails blog app
